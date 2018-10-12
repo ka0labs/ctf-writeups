@@ -11,6 +11,7 @@
 - [@TheXC3LL](https://twitter.com/TheXC3LL) [Write up](https://x-c3ll.github.io/posts/nn8ed-CTF/)
 ## Updateme (mobile)
 - [@SnoozedLife](https://twitter.com/SnoozedLife) [Write up + original APK](https://github.com/snooze6/nn8ed_alwaysupdate)
+- Cristian Barrientos [Write up](https://www.fwhibbit.es/nn8ed-write-up-updateme)
 ## Pokeball
 ## PokeCloner 1
 ## Pokecloner 2
