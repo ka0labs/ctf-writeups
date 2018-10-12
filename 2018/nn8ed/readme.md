@@ -6,7 +6,9 @@
 ## Tindermon (web)
 - [@_Dreadlocked](https://twitter.com/_dreadlocked) [Write up + exploit](https://github.com/dreadlocked/ctf-writeups/blob/master/nn8ed/README.md)
 ## Pokemon Trilero
+- [@TheXC3LL](https://twitter.com/TheXC3LL) [Write up + original code](https://x-c3ll.github.io/posts/nn8ed-CTF/)
 ## NESy
+- [@TheXC3LL](https://twitter.com/TheXC3LL) [Write up](https://x-c3ll.github.io/posts/nn8ed-CTF/)
 ## Updateme (mobile)
 - [@SnoozedLife](https://twitter.com/SnoozedLife) [Write up + original APK](https://github.com/snooze6/nn8ed_alwaysupdate)
 ## Pokeball
@@ -16,5 +18,6 @@
 ## PokeVault
 ## HackGym
 - [@_Dreadlocked](https://twitter.com/_dreadlocked) [Write up](https://dreadlocked.github.io/2018/10/08/nn8ed-hackgym-writeup/)
+- [@TheXC3LL](https://twitter.com/TheXC3LL) [Write up](https://x-c3ll.github.io/posts/nn8ed-CTF/)
 ## XOR-Hellcome
 ## ZX Spectrum
