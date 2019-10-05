@@ -1,6 +1,6 @@
 # Writeup x-Oracle Challenges (Navaja Negra 2019 CTF)
 
-> __Preface:__ Navaja Negra is a local security conference celebrated every year in Albacete (Spain), and traditionally we have been organizing small CTFs for it. These tasks are a series of web challenges for this year.
+> __Preface:__ Navaja Negra is a local security conference celebrated every year in Albacete (Spain). Traditionally we have been organizing small CTFs for it. These tasks are a series of web challenges for this year: https://nn9ed.ka0labs.org/.
 
 The challenges are based on a vanilla SQL injection that must be exploited by a bot with admin role. The [source code](https://gist.github.com/cgvwzq/c78aa5fc228225a2779745f2705eeab5) is provided, so it is easy to spot the SQLi.
 
