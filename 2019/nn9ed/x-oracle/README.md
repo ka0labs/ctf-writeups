@@ -32,7 +32,7 @@ While there are many ways to solve this challenge (any solution for x-Oracle-v2 
 
 First, we need to redirect the bot to a website controlled by us ---easily done with <meta http-equiv=refresh>--- because this action is not affected by the CSP policy. From there we can use any method for measuring the loading time of a cross-origin resource.
 
-In our case we used iframes and the onload event to extract the flag character by character. Finally we simply exfiltrate the flag via an <img src> request.
+In our case we used iframes and the onload event to extract the flag character by character. Finally we simply exfiltrate the flag via an `<img>` request.
 
 ```html
 <iframe name=f id=g></iframe> // The bot will load an URL with the payload
