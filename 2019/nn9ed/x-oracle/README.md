@@ -30,7 +30,7 @@ With this stricter CSP we cannot inject <script> tags or run JavaScript, so thin
 
 While there are many ways to solve this challenge (any solution for x-Oracle-v2 would also work here), our intended solution exploited a cross-site timing attack.
 
-First, we need to redirect the bot to a website controlled by us ---easily done with <meta http-equiv=refresh>--- because this action is not affected by the CSP policy. From there we can use any method for measuring the loading time of a cross-origin resource.
+First, we need to redirect the bot to a website controlled by us ---easily done with `<meta http-equiv=refresh>`--- because this action is not affected by the CSP policy. From there we can use any method for measuring the loading time of a cross-origin resource.
 
 In our case we used iframes and the onload event to extract the flag character by character. Finally we simply exfiltrate the flag via an `<img>` request.
 
